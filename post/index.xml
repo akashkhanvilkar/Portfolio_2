@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Akash Khanvilkar</title>
+    <link>https://akashkhanvilkar.github.io/Portfolio_2/post/</link>
+    <description>Recent content in Projects on Akash Khanvilkar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://akashkhanvilkar.github.io/Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: The Consistency of &#39;Friends&#39;</title>
+      <link>https://akashkhanvilkar.github.io/Portfolio_2/post/chapter-1/</link>
+      <pubDate>Mon, 08 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://akashkhanvilkar.github.io/Portfolio_2/post/chapter-1/</guid>
+      <description>Well one of the major reasons for the show&amp;rsquo;s success was its consistency in quality throughout the years. I decided to visualize the IMDb rating of every Friends episode to depict how the show remained consistent throughout the years. The ratings were scrapped for all episodes from IMDb using Python and the BeautifulSoup library. The data was later cleaned using Excel. A heatmap of number of episodes vs season was visualized using Tableau.</description>
+    </item>
+    
+  </channel>
+</rss>
